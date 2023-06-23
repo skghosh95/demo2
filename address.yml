@@ -1,0 +1,50 @@
+version: 2
+
+models:
+  - name: address
+    description: Schema for address
+
+    columns:
+      - name: bundle_id
+        description: tbd
+        tests:
+        - not_null
+      - name: address_id
+        description: tbd
+      - name: create_date
+        description: tbd
+      - name: update_date
+        description: tbd
+      - name: updated_by
+        description: tbd
+      - name: city
+        description: tbd
+      - name: state_code_id
+        description: tbd
+      - name: country_code
+        description: tbd
+      - name: postal_code
+        description: tbd
+      - name: item_code
+        description: tbd
+      - name: street_type
+        description: tbd
+      - name: street_type_description
+        description: tbd
+      - name: years_at_address
+        description: tbd
+      - name: months_at_address
+        description: tbd
+      - name: mortgage_rent
+        description: tbd
+      - name: address_type
+        description: tbd
+      - name: street
+        description: tbd
+      - name: street_number
+        description: tbd
+      - name: house_type
+        description: tbd
+      - name: deal_detail_id
+        description: tbd
+      
