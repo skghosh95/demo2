@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: creditpolicy
+    description: Schema for creditpolicy
+
+    columns:
+      - name: bundle_id
+        description: tbd
+      - name: min_income
+        description: tbd
+      - name: max_pti
+        description: tbd
+      - name: max_dti
+        description: tbd
+      - name:  max_af
+        description: tbd
+      - name: max_term
+        description: tbd
+      - name: min_payment
+        description: tbd
+      - name: max_vehicle_age
+        description: tbd
+      - name: max_miles
+        description: tbd
+      - name: max_line3_percent
+        description: tbd
+      - name: max_line5_percent
+        description: tbd
+      - name: deal_detail_id
+        description: tbd
+      - name: create_date
+        description: tbd
+      - name: update_date
+        description: tbd
+      - name: updated_by
+      
